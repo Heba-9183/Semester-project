@@ -61,13 +61,7 @@ h5 {
   color: white;
   font: serif;
 }
-.moving {
-  font-family: sans-serif;
-  -webkit-text-stroke: 1px rgb(25, 5, 58);
-  font-weight: bold;
-  color: rgb(240, 135, 65);
-  margin: 5px;
-}
+
 nav li {
   border: 1px solid;
   background-color: rgb(240, 135, 65);
@@ -76,6 +70,7 @@ nav li {
   margin: 20px;
   padding: 5px;
   position: relative;
+  font: Helvetica;
 }
 nav ul {
   float: left;
