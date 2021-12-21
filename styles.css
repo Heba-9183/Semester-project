@@ -18,7 +18,7 @@ body {
   background-repeat: no-repeat;
   min-height: 70vh;
   background-size: cover;
-  display: grid;
+  display: block;
   grid-gap: lem;
   grid-template-rows: auto;
 }
